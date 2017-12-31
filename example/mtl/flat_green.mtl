@@ -1,0 +1,8 @@
+# A flat green material.
+#
+# Example taken from the MTL specification.
+
+newmtl flat_green
+Ka 0.0000 1.0000 0.0000
+Kd 0.0000 1.0000 0.0000
+illum 1
